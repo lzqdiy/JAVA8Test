@@ -19,6 +19,7 @@ public class LambdaTest  {
 		new User("003",80),
 		new User("004",30),
 		new User("005",70)
+		
 	);
 	
 	@Test
